@@ -25,7 +25,7 @@ Senior / Lead JavaScript Engineer • AI Engineer • Frontend Architect
 const naren = {
   location: "Hamburg, Germany 🇩🇪",
   role: "Senior / Lead JavaScript Engineer",
-  experience: "10+ years",
+  experience: "12+ years",
 
   specialties: [
     "React",
